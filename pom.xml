@@ -10,7 +10,7 @@
 
   <name>tutorail4</name>
   <!-- FIXME change it to the project's website -->
-  <url>https://github.com/SE-Design-and-construction/taxcalculator.git</url>
+  <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -27,12 +27,10 @@
     </dependency>
     <dependency>
       <groupId>org.junit.jupiter</groupId>
-      <artifactId>junit-jupiter-api</artifactId>
-      <version>5.4.0</version>
+      <artifactId>junit-jupiter</artifactId>
+      <version>RELEASE</version>
       <scope>test</scope>
     </dependency>
-
-
   </dependencies>
 
   <build>
