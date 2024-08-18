@@ -10,12 +10,12 @@
 
   <name>tutorail4</name>
   <!-- FIXME change it to the project's website -->
-  <url>https://github.com/SE-Design-and-construction/tutorial4.git</url>
+  <url>https://github.com/SE-Design-and-construction/taxcalculator.git</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>21</maven.compiler.source>
-    <maven.compiler.target>21</maven.compiler.target>
+    <maven.compiler.source>8</maven.compiler.source>
+    <maven.compiler.target>8</maven.compiler.target>
   </properties>
 
   <dependencies>
