@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/jdk-21-oracle-x64/lib"/>
-    <property name="sun.java.command" value="/home/finau/159251/t4/tutorial4/target/surefire/surefirebooter12567636068047779804.jar /home/finau/159251/t4/tutorial4/target/surefire 2024-08-15T03-49-59_184-jvmRun1 surefire12113714116512082318tmp surefire_015661185121327107661tmp"/>
+    <property name="sun.java.command" value="/home/finau/159251/t4/tutorial4/target/surefire/surefirebooter4354414852045064634.jar /home/finau/159251/t4/tutorial4/target/surefire 2024-08-15T09-29-48_840-jvmRun1 surefire3449473421291735234tmp surefire_03135563504889942643tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/finau/159251/t4/tutorial4/target/test-classes:/home/finau/159251/t4/tutorial4/target/classes:/home/finau/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.4.0/junit-jupiter-engine-5.4.0.jar:/home/finau/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/home/finau/.m2/repository/org/junit/platform/junit-platform-engine/1.4.0/junit-platform-engine-1.4.0.jar:/home/finau/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/home/finau/.m2/repository/org/junit/platform/junit-platform-commons/1.4.0/junit-platform-commons-1.4.0.jar:/home/finau/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.4.0/junit-jupiter-api-5.4.0.jar:/home/finau/.m2/repository/org/junit/jupiter/junit-jupiter/5.11.0/junit-jupiter-5.11.0.jar:/home/finau/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/home/finau/159251/t4/tutorial4/target/surefire/surefirebooter12567636068047779804.jar"/>
+    <property name="surefire.real.class.path" value="/home/finau/159251/t4/tutorial4/target/surefire/surefirebooter4354414852045064634.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.2+13-LTS-58"/>
     <property name="user.name" value="finau"/>
@@ -53,5 +53,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testAddition" classname="org.example.CalcTest" time="0.002"/>
+  <testcase name="testAddition" classname="org.example.CalcTest" time="0.003"/>
 </testsuite>
